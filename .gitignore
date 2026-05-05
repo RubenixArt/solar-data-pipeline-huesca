@@ -1,0 +1,12 @@
+# Archivos de sistema
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Entornos virtuales
+venv/
+env/
+
+# Datos (Opcional: si el CSV original es muy pesado, mejor no subirlo)
+# *.csv
